@@ -86,7 +86,7 @@ $ npm install && npm run installWPHC
 $ npm start
 ```
 
-Open http://localhost:8080/webpack-dev-server/ in Chrome (the only browser supported). You should see the application running with `http://dev.julienrenaux.fr/wp-json` backend.
+Open http://localhost:8080/webpack-dev-server/ in Chrome (the only browser supported). You should see the application running with `https://dev.julienrenaux.fr/wp-json` backend.
 
 To go further please read the documentations.
 
